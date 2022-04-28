@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devx-none&label=Profile%20views&color=0e75b6&style=flat" alt="devx-none" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React native**
 
 - 💬 Ask me about **react ,nodejs**
 
